@@ -17,7 +17,7 @@ while(guess !== targetNum) {
         guess = parseInt(prompt("Too Low! Enter A New Guess:"));
     }
 }
-alert(`YOU GOT IT!!! In ${attempts} Trie(s)!!`);
+alert(`YOU GOT IT!!! In ${attempts} Trie(s)!! The answer was ${targetNum}`);
 
 
 
