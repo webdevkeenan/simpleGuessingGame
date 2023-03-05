@@ -4,7 +4,7 @@ while (!maximum) {
 }
 
 const targetNum = Math.floor(Math.random() * maximum) + 1;
-console.log(targetNum);
+
 
 let guess = parseInt(prompt("Enter Your First Guess!"));
 let attempts = 1;
