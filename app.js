@@ -18,9 +18,12 @@ while(parseInt (guess) !== targetNum) {
         guess = (prompt("Too Low! Enter A New Guess OR (Type \"q\" or \"quit\" to end game)"));
     }
 }
+if (guess === 'q') {
+alert('GAME OVER. REFRESH THE PAGE TO TRY AGAIN')
+} else {
 alert(`YOU GOT IT!!! In ${attempts} Trie(s)!! The answer was ${targetNum}
  (REFRESH THE PAGE TO TRY AGAIN)`);
-
+}
 
 
 
