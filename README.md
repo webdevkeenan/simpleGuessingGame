@@ -1,4 +1,6 @@
 # simpleGuessingGame
-Built a simple guessing game played with the prompt using Javascript
+Built a simple guessing game played with the prompt using Javascript.
 
-https://styleshift.github.io/simpleGuessingGame/
+Public Archive.
+
+https://webdevkeenan.github.io/simpleGuessingGame/
